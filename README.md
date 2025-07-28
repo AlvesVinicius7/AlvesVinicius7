@@ -38,7 +38,7 @@
   <h1>Olá, eu sou Vinicius Alves</h1>
   <p>Bem-vindo ao meu portfólio minimalista em preto e branco.</p>
 
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=24&center=true&vCenter=true&width=800&lines=Olá%2C+meu+nome+é+Vinicius;Sou+apaixonado+por+tecnologia;E+adoro+Python+e+SQL!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=24&center=true&vCenter=true&width=800&lines=Olá%2C+meu+nome+é+Vinicius;Sou+apaixonado+por+Ciencia+de+Dados;E+adoro+Python+e+SQL!" alt="Typing SVG" />
 
   <h2>Habilidades Principais</h2>
   <div class="badge">
