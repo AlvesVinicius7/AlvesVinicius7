@@ -12,24 +12,6 @@
       padding: 30px;
       text-align: center;
     }
-
-    h1, h2 {
-      color: #fff;
-    }
-
-    a {
-      color: #fff;
-      text-decoration: underline;
-    }
-
-    .badge {
-      display: inline-block;
-      margin: 10px;
-    }
-
-    img.badge {
-      height: 28px;
-    }
   </style>
 </head>
 <body>
