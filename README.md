@@ -3,14 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Portfólio - Vinicius Alves</title>
-  <style>
-    body {
-      background-color: #000;
-      color: #fff;
-      font-family: 'Courier New', monospace;
-      padding: 30px;
-      text-align: center;
     }
   </style>
 </head>
